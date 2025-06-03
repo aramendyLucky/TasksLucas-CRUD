@@ -51,7 +51,7 @@
 
 ## 📦 ¿Qué es TasksLucas-CRUD?
 
-TASKsYATO es una aplicación CRUD de tareas multiplataforma, con backend en FastAPI y frontend en React + TypeScript. Ideal para aprender arquitectura moderna, buenas prácticas y despliegue profesional.
+TASKsLucas es una aplicación CRUD de tareas multiplataforma, con backend en FastAPI y frontend en React + TypeScript. Ideal para aprender arquitectura moderna, buenas prácticas y despliegue profesional.
 
 ---
 
