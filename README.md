@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h2>🟦🟩🟧 <span style="font-family:monospace;">Índice 8-bit</span> 🟥🟨🟪</h2>
+  <h2>🟦🟩🟧 <span style="font-family:monospace;">Índice</span> 🟥🟨🟪</h2>
   <ul align="left" style="font-size:1.1em;">
     <li>🎮 <a href="#presentacion">Presentación</a></li>
     <li>🧩 <a href="#que-es-tasklucas">¿Qué es TaskLucas?</a></li>
