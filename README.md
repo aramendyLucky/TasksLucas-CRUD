@@ -195,7 +195,7 @@ npm run dev
 
 ---
 
-> ¡Listo! Ya puedes usar TaskLucas en tu PC, crear tareas y disfrutar la experiencia 8-bit.
+> ¡Listo! Ya puedes usar TaskLucas en tu PC, crear tareas y disfrutar la experiencia.
 
 ---
 
@@ -215,7 +215,7 @@ Este proyecto está licenciado bajo la Licencia MIT personalizada por Aramendy L
 <div align="center" style="margin-top:2em;">
   <img src="https://emojicombos.com/wp-content/uploads/2022/05/8-bit-pixel-art-emoji-1.png" width="48"/>
   <br/>
-  <b>¡Disfruta gestionando tus tareas con estilo 8-bit y comparte tus mejoras!</b>
+  <b>¡Disfruta gestionando tus tareas con estilo y comparte tus mejoras!</b>
 </div>
 
 ---
@@ -377,7 +377,7 @@ npm run dev
 
 ---
 
-> Done! You can now use TaskLucas on your PC, create tasks, and enjoy the 8-bit experience.
+> Done! You can now use TaskLucas on your PC, create tasks, and enjoy the experience.
 
 ---
 
@@ -397,5 +397,5 @@ This project is licensed under the MIT License customized by Aramendy Lucky. You
 <div align="center" style="margin-top:2em;">
   <img src="https://emojicombos.com/wp-content/uploads/2022/05/8-bit-pixel-art-emoji-1.png" width="48"/>
   <br/>
-  <b>Enjoy managing your tasks with 8-bit style and share your improvements!</b>
+  <b>Enjoy managing your tasks with style and share your improvements!</b>
 </div>
