@@ -34,9 +34,9 @@
 
 ---
 
-# <img src="https://emojicombos.com/wp-content/uploads/2022/05/8-bit-pixel-art-emoji-1.png" width="32" style="vertical-align:middle;"> TaskLucas
+# 🟦🟩🟧 TaskLucas 🟥🟨🟪
 
-> <img src="https://emojicombos.com/wp-content/uploads/2022/05/8-bit-pixel-art-emoji-1.png" width="24"> <b>Gestor de Tareas CRUD con FastAPI + React</b>
+> 🕹️ **Gestor de Tareas CRUD con FastAPI + React**
 
 ---
 
@@ -213,7 +213,7 @@ Este proyecto está licenciado bajo la Licencia MIT personalizada por Aramendy L
 ---
 
 <div align="center" style="margin-top:2em;">
-  <img src="https://emojicombos.com/wp-content/uploads/2022/05/8-bit-pixel-art-emoji-1.png" width="48"/>
+  <span style="font-size:2em;">🟦🟩🟧🟥🟨🟪</span>
   <br/>
   <b>¡Disfruta gestionando tus tareas con estilo y comparte tus mejoras!</b>
 </div>
@@ -395,7 +395,7 @@ This project is licensed under the MIT License customized by Aramendy Lucky. You
 ---
 
 <div align="center" style="margin-top:2em;">
-  <img src="https://emojicombos.com/wp-content/uploads/2022/05/8-bit-pixel-art-emoji-1.png" width="48"/>
+  <span style="font-size:2em;">🟦🟩🟧🟥🟨🟪</span>
   <br/>
-  <b>Enjoy managing your tasks with style and share your improvements!</b>
+  <b>¡Disfruta gestionando tus tareas con estilo y comparte tus mejoras!</b>
 </div>
