@@ -42,7 +42,7 @@
 
 ## 🎮 Presentación
 
-¡Bienvenido a <b>TaskLucas</b>! Una app web de gestión de tareas con estética retro 8-bits, pensada para aprender, practicar y disfrutar la productividad.
+¡Bienvenido a <b>TaskLucas</b>! Una app web de gestión de tareas con estética actual, pensada para aprender, practicar y disfrutar la productividad.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="8bit tasks"/>
@@ -224,7 +224,7 @@ Este proyecto está licenciado bajo la Licencia MIT personalizada por Aramendy L
 
 ## 🎮 Presentation
 
-Welcome to **TaskLucas**! A web app for task management with retro 8-bit aesthetics, designed to learn, practice, and enjoy productivity.
+Welcome to **TaskLucas**! A web app for task management with aesthetics, designed to learn, practice, and enjoy productivity.
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="8bit tasks"/>
