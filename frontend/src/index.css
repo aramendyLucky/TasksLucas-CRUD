@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .task-card {
+    @apply bg-content1/80 backdrop-blur-md border border-content2/50;
+    @apply rounded-xl p-4 shadow-sm hover:shadow-md;
+    @apply transition-all duration-200 hover:-translate-y-1;
+  }
+
+  .priority-low {
+    @apply border-l-4 border-l-success-500;
+  }
+
+  .priority-medium {
+    @apply border-l-4 border-l-warning-500;
+  }
+
+  .priority-high {
+    @apply border-l-4 border-l-secondary-500;
+  }
+
+  .priority-urgent {
+    @apply border-l-4 border-l-danger-500 bg-danger-50/50;
+  }
+
+  .btn-gradient {
+    @apply bg-gradient-to-r from-primary-500 to-secondary-600;
+    @apply hover:from-primary-600 hover:to-secondary-700;
+    @apply shadow-md hover:shadow-lg;
+  }
+
+  /* Animations */
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+
+  @keyframes checkmark {
+    0% { transform: scale(0); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+  }
+
+  @keyframes bounce-in {
+    0% { transform: scale(0.8); opacity: 0; }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); opacity: 1; }
+  }
+
+  .animate-checkmark {
+    animation: checkmark 0.3s ease-in-out forwards;
+  }
+
+  .animate-bounce-in {
+    animation: bounce-in 0.3s ease-in-out forwards;
+  }
+}

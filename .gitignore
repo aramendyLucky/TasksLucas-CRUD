@@ -1,0 +1,39 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/app/__pycache__/
+backend/alembic/versions/__pycache__/
+
+# Alembic
+backend/alembic/versions/*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Env
+.env
+.env.*
+
+# Docker
+*.pid
+db_data/
+
+# Otros
+*.bak
+*.tmp

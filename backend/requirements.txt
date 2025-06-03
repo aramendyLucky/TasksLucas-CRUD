@@ -1,0 +1,16 @@
+# FastAPI - Framework web moderno para Python
+fastapi==0.104.1
+# Uvicorn - Servidor web para ejecutar FastAPI
+uvicorn[standard]==0.24.0
+# SQLAlchemy - ORM (mapea objetos Python a tablas de BD)
+sqlalchemy==2.0.23
+# Psycopg2 - Driver para conectar Python con PostgreSQL
+psycopg2-binary==2.9.9
+# Alembic - Maneja migraciones de base de datos
+alembic==1.12.1
+# Pydantic - Validación de datos
+pydantic==2.5.0
+# Python-dotenv - Lee archivos .env
+python-dotenv==1.0.0
+# Python-multipart - Para manejar archivos en APIs
+python-multipart==0.0.6
