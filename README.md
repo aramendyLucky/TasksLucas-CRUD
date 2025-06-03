@@ -19,7 +19,7 @@
   <h2>📑 Índice rápido</h2>
   <ul align="left">
     <li><a href="#presentacion">🕹️ Presentación</a></li>
-    <li><a href="#que-es-tasksyato">📦 ¿Qué es TASKsYATO?</a></li>
+    <li><a href="#que-es-TasksLucas">📦 ¿Qué es TASKsLucas?</a></li>
     <li><a href="#instalacion-rapida">🚀 Instalación Rápida</a></li>
     <li><a href="#acceso">🖥️ Acceso</a></li>
     <li><a href="#caracteristicas-principales">🧩 Características principales</a></li>
